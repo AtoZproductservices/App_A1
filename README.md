@@ -1,3 +1,5 @@
+<img width="1440" height="795" alt="Capture" src="https://github.com/user-attachments/assets/797e5bde-c987-49a5-bd1c-c367459b2cca" />
+
 Assignment 1
 Displaying Images in Flutter
 
